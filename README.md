@@ -1,2 +1,0 @@
-# study
-ci/cd study
